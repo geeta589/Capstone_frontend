@@ -1,0 +1,40 @@
+.pictures > img{
+    border: solid;
+    display: inline-block;
+    margin-right:50px;
+    justify-content: space-between;
+    height: 200px;
+    width:  200px;
+}
+
+.login > a{
+    display: inline-flexbox;
+    margin-right:50px;
+    
+}
+.registration{
+    background-color:aqua;
+    border: solid;
+    display: inline-block;
+    margin: 100px;
+    margin-right:100px;
+    justify-content: space-between ;
+    height: 200px;
+    width:  200px; 
+}
+
+.btn{
+color:black;
+background-color:lightslategray;
+}
+
+.login{
+    background-color:coral;
+    border: solid;
+    display: inline-block;
+    margin: 100px;
+    margin-right:100px;
+    justify-content: space-between ;
+    height: 200px;
+    width:  200px; 
+}
